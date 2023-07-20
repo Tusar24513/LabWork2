@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6f9a6cc-1fe1-4a3a-b5a4-1846cad7b458" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assain.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_replace_runner.java" afterDir="false" />
+    <list default="true" id="e6f9a6cc-1fe1-4a3a-b5a4-1846cad7b458" name="Changes" comment="Replace">
+      <change afterPath="$PROJECT_DIR$/PerimeterTesterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AreaTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AreaTesterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Construct_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerimeterTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Using_trim_and_replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Using_trim_and_replace_Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1689782547975</updated>
     </task>
+    <task id="LOCAL-00001" summary="Replace">
+      <option name="closed" value="true" />
+      <created>1689783619418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689783619418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Replace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replace" />
   </component>
 </project>
